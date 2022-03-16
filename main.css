@@ -1,0 +1,18 @@
+
+.container {
+    background: rgb(175, 174, 174);
+    margin: 200px;
+    padding: 20px;
+    position: center;
+}
+
+.jumbotron {
+    position: center;
+    font-size: 40px;
+    
+}
+
+.lead {
+    
+    font-size: 20px;
+}
